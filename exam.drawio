@@ -1,0 +1,187 @@
+<mxfile host="app.diagrams.net" modified="2023-12-01T09:45:11.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GPEFj6PaiRZS_aTXoZmF" version="22.1.5" type="github">
+  <diagram name="Page-1" id="NtzjR9WsaGyhuH8oXFOz">
+    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="En6Dbv3lP52yKz_oezXn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-33" target="En6Dbv3lP52yKz_oezXn-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-33" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-35" value="CREATE DATABASE Guerrasmedievales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-42" target="En6Dbv3lP52yKz_oezXn-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-42" value="Crea las tablas&lt;br&gt;Pais&lt;br&gt;Ejercito&lt;br&gt;Batallon&amp;nbsp;&lt;br&gt;Capitan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-43" target="En6Dbv3lP52yKz_oezXn-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-43" value="Introduce la informacion de tu pais&lt;br&gt;(nombre,bandera,&lt;br&gt;cantidad de ejercitos)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-45" value="Guarda el nombre en la tabla pais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-47" target="En6Dbv3lP52yKz_oezXn-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-47" target="En6Dbv3lP52yKz_oezXn-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-47" value="Nombre pais" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-48" target="En6Dbv3lP52yKz_oezXn-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-48" target="En6Dbv3lP52yKz_oezXn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-48" value="bandera" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-49" target="En6Dbv3lP52yKz_oezXn-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-49" value="Cantidad de ejercito" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="690" width="136" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-52" value="Guarda la bandera&amp;nbsp; en la tabla pais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-54" target="En6Dbv3lP52yKz_oezXn-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-54" value="int i =1;&lt;br&gt;i&amp;lt;=cantidad ejercito;&lt;br&gt;i++;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="770" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-59" target="En6Dbv3lP52yKz_oezXn-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="950" />
+              <mxPoint x="420" y="980" />
+              <mxPoint x="422" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-59" value="introduzca la informacio de ejercito i&lt;br&gt;(Escudo,numero de batallon,&lt;br&gt;cantidad_batallon)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="890" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-71" target="En6Dbv3lP52yKz_oezXn-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-71" target="En6Dbv3lP52yKz_oezXn-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="1840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="1313" />
+              <mxPoint x="100" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-71" value="int x =1;&lt;br&gt;x&amp;lt;=cantidad_batallon;&lt;br&gt;x++;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1290" width="134" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-72" target="En6Dbv3lP52yKz_oezXn-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="1450" />
+              <mxPoint x="400" y="1480" />
+              <mxPoint x="406" y="1480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-72" value="introduzca la informacio del&lt;br&gt;batallon.&lt;br&gt;(Tipo,Capitan)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1410" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-74" target="En6Dbv3lP52yKz_oezXn-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-74" target="En6Dbv3lP52yKz_oezXn-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-74" value="Escudo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-75" target="En6Dbv3lP52yKz_oezXn-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-75" value="numero de &lt;br&gt;regimiento" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-76" target="En6Dbv3lP52yKz_oezXn-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-76" value="cantidad&lt;br&gt;batallon" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-78" value="Guarda el escudo en la tabla ejercito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-79" value="Guarda el numero en la tabla ejercito y en la tabla Pais" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.573;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-75" target="En6Dbv3lP52yKz_oezXn-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-86" target="En6Dbv3lP52yKz_oezXn-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-86" value="tipo de batallon" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-87" target="En6Dbv3lP52yKz_oezXn-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-87" target="En6Dbv3lP52yKz_oezXn-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="1670" />
+              <mxPoint x="230" y="1670" />
+              <mxPoint x="230" y="1330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-87" target="En6Dbv3lP52yKz_oezXn-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="398" y="1670" />
+              <mxPoint x="870" y="1670" />
+              <mxPoint x="870" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-87" value="tipo de capitan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.564;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="En6Dbv3lP52yKz_oezXn-86" target="En6Dbv3lP52yKz_oezXn-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-90" value="Guarda el tipo en la tabla batallon" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-91" value="Guarda el tipo capitan en la tabla batallon y en la tabla capitan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="En6Dbv3lP52yKz_oezXn-97" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1840" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
